@@ -1,0 +1,4 @@
+/Users/sapelkinav/code/c/openmp/lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sapelkinav/code/c/openmp/lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sapelkinav/code/c/openmp/lab7/cmake-build-debug/CMakeFiles/seven2.dir
+/Users/sapelkinav/code/c/openmp/lab7/cmake-build-debug/CMakeFiles/seven1.dir
